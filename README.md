@@ -16,6 +16,7 @@ To research, build, and steward ethical, decentralized, and nature-aligned intel
 - [Contact](CONTACT.md)
 - [Support](SUPPORT.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [License](LICENSE)
 
 ## Focus Areas
@@ -49,7 +50,4 @@ For now, the public contact email for Luminis Foundation is:
 
 ## Support
 If you want to support the foundation’s development, see:
-- [Support Luminis Foundation](SUPPORT.md)
-
-## Status
-Luminis Foundation is currently in its formation stage.
+- [Support
