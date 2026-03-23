@@ -8,6 +8,14 @@ Luminis Foundation is a nonprofit initiative in development focused on sovereign
 ## Mission
 To research, build, and steward ethical, decentralized, and nature-aligned intelligence systems that empower individuals and communities with greater autonomy, privacy, resilience, and long-term flourishing.
 
+## Core Documents
+- [Mission](MISSION.md)
+- [Vision](VISION.md)
+- [Roadmap](ROADMAP.md)
+- [Get Involved](GET_INVOLVED.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [License](LICENSE)
+
 ## Focus Areas
 - Sovereign AI
 - Offline and privacy-first intelligence
@@ -25,8 +33,12 @@ This repository serves as the public collaboration space for:
 - Public documentation
 - Community contribution
 
-## Contributing
-Contribution guidelines will be added soon. For now, this repository is the main public hub for the foundation’s open build process.
+## Get Involved
+Start here:
+1. Read the core documents
+2. Review the mission, vision, and roadmap
+3. Open an issue for ideas or proposals
+4. Submit a pull request for specific improvements
 
 ## Status
 Luminis Foundation is currently in its formation stage.
