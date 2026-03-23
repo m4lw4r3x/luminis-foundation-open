@@ -50,4 +50,7 @@ For now, the public contact email for Luminis Foundation is:
 
 ## Support
 If you want to support the foundation’s development, see:
-- [Support
+- [Support Luminis Foundation](SUPPORT.md)
+
+## Status
+Luminis Foundation is currently in its formation stage.
