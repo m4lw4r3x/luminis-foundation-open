@@ -38,6 +38,7 @@ For support-related questions, contact:
 Coming Soon
 
 **Donation link:** 
+
 Coming Soon
 
 ## Notes
