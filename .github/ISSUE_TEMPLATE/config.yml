@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Luminis Foundation Contact
+    url: mailto:luminisai33@gmail.com
+    about: Use this email for direct foundation-related inquiries.
+  - name: Support Luminis Foundation
+    url: https://github.com/m4lw4r3x/luminis-foundation-open/blob/main/SUPPORT.md
+    about: View support and donation information.
