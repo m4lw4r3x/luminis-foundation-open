@@ -13,6 +13,8 @@ To research, build, and steward ethical, decentralized, and nature-aligned intel
 - [Vision](VISION.md)
 - [Roadmap](ROADMAP.md)
 - [Get Involved](GET_INVOLVED.md)
+- [Contact](CONTACT.md)
+- [Support](SUPPORT.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [License](LICENSE)
 
@@ -39,6 +41,15 @@ Start here:
 2. Review the mission, vision, and roadmap
 3. Open an issue for ideas or proposals
 4. Submit a pull request for specific improvements
+
+## Contact
+For now, the public contact email for Luminis Foundation is:
+
+**luminisai33@gmail.com**
+
+## Support
+If you want to support the foundation’s development, see:
+- [Support Luminis Foundation](SUPPORT.md)
 
 ## Status
 Luminis Foundation is currently in its formation stage.
